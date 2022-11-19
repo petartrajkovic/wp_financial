@@ -1,0 +1,13 @@
+.main {
+  margin-top: 140px;
+}
+
+p {
+  color: #412974;
+}
+
+.post_image-div img {
+  width: 100%;
+  border-radius: 10px;
+  height: auto;
+}

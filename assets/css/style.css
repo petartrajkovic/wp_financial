@@ -1,0 +1,36 @@
+/* general */
+* {
+  box-sizing: border-box;
+  font-family: "Source Sans Pro", Sans-serif;
+  scroll-behavior: smooth;
+  color: #412974;
+}
+html,
+body {
+  overflow-x: hidden;
+  margin: 0;
+  height: unset;
+}
+a {
+  text-decoration: none;
+}
+
+/* border */
+.pt_border-radius-10 {
+  border-radius: 10px;
+}
+
+/* button */
+.pt_button {
+  border-radius: 10px;
+  padding: 10px 15px;
+}
+.pt_button-yellow {
+  background-color: #f3ad16;
+  color: #ffffff;
+  border: #f3ad16 1px solid;
+}
+.pt_button-yellow:hover {
+  background-color: #ffffff;
+  color: #f3ad16;
+}

@@ -1,0 +1,37 @@
+header {
+  background-color: #412974;
+  position: fixed !important;
+  height: 100px;
+  padding: 1rem !important;
+}
+
+header .logo-img {
+  height: 62px;
+}
+
+.site-mobile-menu-body {
+  overflow-y: hidden !important;
+  text-align: center;
+  padding-top: 7rem !important;
+  height: unset !important;
+  padding-bottom: 3rem !important;
+}
+.site-mobile-menu.site-navbar-target {
+  background-color: #412974;
+  width: 100% !important;
+  text-align: center;
+  height: max-content;
+}
+.site-mobile-menu .logo-img {
+  height: 62px;
+  margin-bottom: 30px;
+}
+.site-mobile-menu-body * {
+  color: #ffffff !important;
+}
+.js-menu-toggle {
+  color: white;
+}
+.site-mobile-menu-close {
+  margin-top: -33px !important;
+}

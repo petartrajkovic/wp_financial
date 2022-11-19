@@ -1,0 +1,12 @@
+footer {
+  background-color: #412974;
+}
+footer p {
+  color: #ffffff !important;
+  margin-bottom: 5px;
+}
+
+footer .logo-img {
+  height: 62px;
+  margin-top: 15px;
+}
